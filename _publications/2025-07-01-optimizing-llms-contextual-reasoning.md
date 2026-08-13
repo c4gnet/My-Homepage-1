@@ -9,6 +9,6 @@ venue: 'Conference on Artificial Intelligence (COAI 2026)'
 slidesurl: 'http://yourwebsite.com/files/slides-optimizing-llms.pdf'
 paperurl: 'https://example.com/coai-paper'
 bibtexurl: 'http://yourwebsite.com/files/bibtex-optimizing-llms.bib'
-codeurl: 'https://github.com/tripleehin/Optimizing-Large-Language-Models-COAI2026'
+codeurl: 'https://github.com/c4gnet/optimizing-llms-contextual-reasoning'
 citation: 'John Smith, et al. (2025). "Optimizing Large Language Models for Contextual Reasoning in Multi-Task Environments." <i>Conference on Artificial Intelligence (COAI 2026)</i>.'
 ---
